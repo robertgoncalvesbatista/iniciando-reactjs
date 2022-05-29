@@ -2,7 +2,7 @@
 
 É o estudo feito sobre ReactJS baseado na aula [COMEÇANDO NO REACT.JS EM 2022](https://www.youtube.com/watch?v=pDbcC-xSat4&t=1447s&ab_channel=Rocketseat) do canal Rocketseat.
 
-# Iniciar projeto
+## Iniciar projeto
 
 Abaixo estão as linhas de código para configurar o ReactJS com Vite.
 
@@ -12,7 +12,7 @@ Abaixo estão as linhas de código para configurar o ReactJS com Vite.
 >
 >`npm install`
 
-# Conceitos
+## Conceitos
 
 HTML dentro do Javascript é chamado de JSX: Javascript + XML.
 
@@ -24,7 +24,7 @@ Um componente React é uma função que retorna HTML.
 
 No Typescript, as propriedades de um componente deve ser tipadas.
 
-# Tecnologias Novas
+## Tecnologias Novas
 
 [Radix](https://www.radix-ui.com/)
 
@@ -32,7 +32,7 @@ No Typescript, as propriedades de um componente deve ser tipadas.
 
 [Stitches](https://stitches.dev/)
 
-# Novos Estudos
+## Novos Estudos
 
 1. Data Fetching
 
