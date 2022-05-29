@@ -1,14 +1,16 @@
 # Iniciando ReactJS
 
-É o estudo feito sobre ReactJS baseado na aula (COMEÇANDO NO REACT.JS EM 2022)[https://www.youtube.com/watch?v=pDbcC-xSat4&t=1447s&ab_channel=Rocketseat] do canal Rocketseat.
+É o estudo feito sobre ReactJS baseado na aula [COMEÇANDO NO REACT.JS EM 2022](https://www.youtube.com/watch?v=pDbcC-xSat4&t=1447s&ab_channel=Rocketseat) do canal Rocketseat.
 
 # Iniciar projeto
 
 Abaixo estão as linhas de código para configurar o ReactJS com Vite.
 
-> npm create vite@latest ["nome-do-projeto"]
-> cd ["nome-do-projeto"]
-> npm install
+>`npm create vite@latest "nome-do-projeto"`
+>
+>`cd "nome-do-projeto"`
+>
+>`npm install`
 
 # Conceitos
 
@@ -24,9 +26,11 @@ No Typescript, as propriedades de um componente deve ser tipadas.
 
 # Tecnologias Novas
 
-(Radix)[https://www.radix-ui.com/]
-(Vite)[https://vitejs.dev/]
-(Stitches)[https://stitches.dev/]
+[Radix](https://www.radix-ui.com/)
+
+[Vite](https://vitejs.dev/)
+
+[Stitches](https://stitches.dev/)
 
 # Novos Estudos
 
